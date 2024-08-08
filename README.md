@@ -1,4 +1,4 @@
-
+![GIF](https://github.com/CyberPlatoon/DirFinder/blob/c4ffbbb81201cf5b612b7c2ce1e6fbb2cb29f99c/DirFinder.GIF)
 ![App Screenshot](https://github.com/CyberPlatoon/DirFinder/blob/main/DirFinder.png?raw=true)
 
 <br>
