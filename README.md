@@ -35,7 +35,8 @@ cd DirFinder
 sudo dpkg -i DirFinder.deb
 ```
 <br>
-![App Screenshot](https://github.com/CyberPlatoon/DirFinder/blob/main/DirFinder.GIF)
+![GIF](https://github.com/CyberPlatoon/DirFinder/blob/c4ffbbb81201cf5b612b7c2ce1e6fbb2cb29f99c/DirFinder.GIF)
+[![Rekono]](https://user-images.githubusercontent.com/69458381/211694917-6738e42a-cb44-4d3a-905d-752b3fe25718.mp4)
 
 ## Connect with me  
 <br>
