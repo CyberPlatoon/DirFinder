@@ -1,5 +1,5 @@
 
-![App Screenshot](https://github.com/CyberPlatoon/DirFinder_old/blob/  main/DirFinder.png?raw=true)
+![App Screenshot](https://github.com/CyberPlatoon/DirFinder/blob/main/DirFinder.png?raw=true)
 
 <br>
 
@@ -34,7 +34,8 @@ git clone https://github.com/CyberPlatoon/DirFinder.git
 cd DirFinder
 sudo dpkg -i DirFinder.deb
 ```
-
+<br>
+![App Screenshot](https://github.com/CyberPlatoon/DirFinder/blob/main/DirFinder.GIF)
 
 ## Connect with me  
 <br>
